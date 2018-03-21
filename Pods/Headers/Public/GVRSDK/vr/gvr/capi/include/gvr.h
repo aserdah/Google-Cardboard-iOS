@@ -1,0 +1,5 @@
+XSym
+0061
+045e79639486971cc146ea1ebddd53e2
+../../../../../../../GVRSDK/Sources/vr/gvr/capi/include/gvr.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

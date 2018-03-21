@@ -1,0 +1,5 @@
+XSym
+0042
+af60813f66b0fccb9d453b0ad40d2d49
+../../../GVRSDK/Sources/GVRHeadTransform.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

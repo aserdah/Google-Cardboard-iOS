@@ -1,0 +1,5 @@
+XSym
+0069
+940fa9695e29d0b27d0015a05f0361a6
+../../../../../../../GVRSDK/Sources/vr/gvr/capi/include/gvr_version.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
